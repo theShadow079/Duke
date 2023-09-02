@@ -1,0 +1,17 @@
+#title{
+    background-color: #051d35;
+}
+h1{
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+#container-fluid{
+    padding: 3% 15%
+}
+
+#leo{
+    border-radius: 50%;
+}
