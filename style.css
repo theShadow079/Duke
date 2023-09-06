@@ -100,3 +100,33 @@ p {
   width: 15%;
   margin: 20px 20px 50px;
 }
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+.card-footer{
+  border-top: 0px;
+}
+#li{
+  font-size: bold;
+}
+.li-n{
+  color: red;
+  text-decoration: line-through;
+}
